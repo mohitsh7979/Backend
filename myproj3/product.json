@@ -1,0 +1,26 @@
+[
+    {
+        "name":"mohit",
+        "price":500,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"rohit",
+        "price":300,
+        "featured":false,
+        "company":"samsung"
+    },
+    {
+        "name":"aman",
+        "price":200,
+        "featured":true,
+        "company":"dell"
+    },
+    {
+        "name":"anu",
+        "price":1000,
+        "featured":false,
+        "company":"mi"
+    }
+]
